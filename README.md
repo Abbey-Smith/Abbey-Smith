@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... Google Data Analytics.
 - 💞️ I’m looking to collaborate on ... Data Analysm and Technical Writing.
 - 📫 How to reach me ... Email : abbey.smith@icloud.com  // Cell Number: 571.420.1293
-- 😄 Pronouns: ... She/They
+- 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ... I know American Sign Language, and play guitar, both electric and acoustic!
 
 <!---
